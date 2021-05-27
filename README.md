@@ -5,4 +5,4 @@ This dataset presents transactions that occurred in two days. The dataset is hig
 
 Due to confidentiality issues, the input variables are transformed into numerical using PCA transformations.
 
-you can find the data here https://www.kaggle.com/mlg-ulb/creditcardfraud
+you can find the dataset here https://www.kaggle.com/mlg-ulb/creditcardfraud
